@@ -845,7 +845,7 @@ user is not using shrink to fit then we expand the header.
               <div class='col-md-4 col-md-push-0 col-sm-8 col-sm-push-2 skills-info wow fadeInUp animated' style='visibility: visible;'>
                 <h1 class='title'>Project Contributions</h1>
                 <p class='skill-text'>
-                  Alwin Yen is a very experienced Kali Linux wizard, and this year will be his 3rd year as an OSCP (Offensive Security Certified Professional). He will be leading the development of the PAS Robot.
+                  placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text placeholder text.
                 </p>
                 <div class='social-link' style='margin: 0;padding: 10px 0;text-align: center;'>
                   <!-- About Social Links --> 
@@ -1466,7 +1466,7 @@ user is not using shrink to fit then we expand the header.
           <!--Page Header-->
           <div class='row page-header wow fadeInUp animated' style='visibility: visible;'>
             <h1>
-              Paul Chen
+              Mechanical Engineer
             </h1>
             <div class='border-bottom'/>
           </div>
@@ -1746,7 +1746,7 @@ user is not using shrink to fit then we expand the header.
       </section>
       <!--About Shaun Cheon section end-->
 
-<!--About Investor section start-->
+<!--About Investor 1 section start-->
       <section class='section section-padding about' id='about'>
         <div class='container'>
           <!--Page Header-->
@@ -1762,7 +1762,7 @@ user is not using shrink to fit then we expand the header.
               <!--Basic Info-->
               <div class='col-md-4 col-sm-7 basic-info wow fadeInUp animated' style='visibility: visible;'>
                 <!-- About Name -->
-                <h1 class='person-title'>Your Name Here</h1>
+                <h1 class='person-title'>Pamela Chu</h1>
                 <!-- About Bio -->
                 <p class='bio-text'>
                   Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit .<br/>Erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
@@ -1771,7 +1771,7 @@ user is not using shrink to fit then we expand the header.
                   <!-- About info -->
                   <li><i class='lnr lnr-map'/>Pacific American School</li>
                   <li><i class='lnr lnr-envelope'/>???[at] ????? [dot] org</li>
-                  <li><i class='lnr lnr-earth'/>www.yourdomain.com</li>
+                  <li><i class='lnr lnr-earth'/>pacificamerican.org</li>
                 </ul>
               </div>
               <!--Profile Photo-->
@@ -1879,8 +1879,8 @@ user is not using shrink to fit then we expand the header.
                       <!-- Service Icon --><i class='lnr lnr-star'/>
                       <div class='service-box-content'>
                         <!-- Service Heading -->
-                        <h4><b>Animated elements</b></h4>
-                        <!-- Service Description --><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus cursus lectus vel pellentesque. Etiam tincidunt.</p>
+                        <h4><b>Data Collection</b></h4>
+                        <!-- Service Description --><p>The robot is able to collect numerous types of data, such as images, videos, audio, spoken words, and student prescence from any given location on the map.</p>
                       </div>
                     </div>
                   </div>
@@ -1943,8 +1943,8 @@ user is not using shrink to fit then we expand the header.
                     <div class='service-box style-2 '>
                       <!-- Icon --><i class='lnr lnr-checkmark-circle'/>
                       <div class='service-box-content'>
-                        <!-- Service Heading --><h4><b>More features</b></h4>
-                        <!-- Service Description --><p>.</p>
+                        <!-- Service Heading --><h4><b>Friendly</b></h4>
+                        <!-- Service Description --><p>The robot will be programmed to be student friendly and will have an exterior design that allows it to blend in with the campus.</p>
                       </div>
                     </div>
                   </div>
@@ -1984,7 +1984,7 @@ user is not using shrink to fit then we expand the header.
               <div class='fun-box text-center'>
                 <i class='lnr lnr-thumbs-up'/>
 
-                <div class='value' data-target='48'>0</div><!-- Change The Number ex: data-target='39018' -->
+                <div class='value' data-target='55'>0</div><!-- Change The Number ex: data-target='39018' -->
                 <div class='title'>facebook likes</div><!-- Heading -->
               </div>
             </div>
@@ -2083,7 +2083,7 @@ user is not using shrink to fit then we expand the header.
                 <i class='lnr lnr-map'/>
                 <h5>ADDRESS</h5>
               </div>
-              <p>Taiwan, 30071<br/>Hsinchu City, East District<br/>光復路二段151號</p>
+              <p>3F, No. 151, Section 2,<br/>Guangfu Road, East District,<br/>Hsinchu City, 30071<br/><br/>新竹市光復路二段151號3樓</p>
             </div>
             <!--Single Contact Detail-->
             <div class='col-md-6 col-sm-6 single-contact-detail'>
@@ -2098,12 +2098,13 @@ user is not using shrink to fit then we expand the header.
       </div>
     </div>
   </section>
-  <!-- Contact/END-->    
+  <!-- Contact/END-->  
+  
 
   <div class='aisa-copyright'>
     <div class='container'>
       <div class='row'>
-        <div class='col-lg-6 col-md-6 col-sm-6 col-xs-12 aisa-left'>Copyright &#169; 2017 <data:blog.title/>.<br/>Webmaster: <a href='http://www..com/' target='_blank' title='Shaun Hoseong Cheon'>Shaun Hoseong Cheon</a><br/>Designed By <a href='http://www.themeswear.com/' id='themeswear' ref='dofollow' title='Portfolio Blogger Templates'>Themeswear</a></div>
+        <div class='col-lg-6 col-md-6 col-sm-6 col-xs-12 aisa-left'>Copyright &#169; 2017 <data:blog.title/>.<br/>Webmaster: <a href='http://www..com/' target='_blank' title='Shaun Hoseong Cheon'>Shaun Hoseong Cheon</a><br/>Bitcoin Donation Address: 17GqpfcNqnJfm2vq2xe73Qp3uMLsoZHnVZ <br/>Designed By <a href='http://www.themeswear.com/' id='themeswear' ref='dofollow' title='Portfolio Blogger Templates'>Themeswear</a></div>
         <div class='col-lg-6 col-md-6 col-sm-6 col-xs-12 aisa-right'>
           <div class='goto-top  goto-top-5847b997a6ce8'>Made With <i aria-hidden='true' class='fa fa-heart' style='color:#d55'/></div>
         </div>
@@ -2111,6 +2112,12 @@ user is not using shrink to fit then we expand the header.
     </div>
   </div>
 
+<!--TRANSIZLATE THIS PAGE-->
+<script src='https://gizoogle.github.io/NOCOMMENTSgizoogle_embeddedbutton.js' type='text/javascript'/>
+<a href='http://gizoogle2.tumblr.com/' onclick='Transizlate();return false;' target='_blank'>
+Click here to Transizlate this page.</a>
+Transizlation by <a href='http://gizoogle2.tumblr.com'>Gizoogle 2.0</a>.
+<!--TRANSIZLATE THIS PAGE-->
 
 <!--Page Navigation Starts-->
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
