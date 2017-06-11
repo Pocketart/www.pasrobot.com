@@ -1479,13 +1479,13 @@ user is not using shrink to fit then we expand the header.
                 <h1 class='person-title'>Paul Chen</h1>
                 <!-- About Bio -->
                 <p class='bio-text'>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit .<br/>Erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.
+                  Hi, I am Paul from Pacific American School, who enjoys robots and programming. Robotics have always been one of my favorite subject and entertainment especially when math, strategies, physics are included. I like the sense of accomplishment when the code and robot work just as what I’m expecting. However, there is still a lot to learn. Thus, I hope I could strengthen my skills and learn as much as I can after this project.
                 </p>
                 <ul class='info-list'>
                   <!-- About info -->
                   <li><i class='lnr lnr-map'/>Pacific American School</li>
-                  <li><i class='lnr lnr-envelope'/>ShaunCheon [at] ShaunCheon [dot] com</li>
-                  <li><i class='lnr lnr-earth'/>www..com</li>
+                  <li><i class='lnr lnr-envelope'/>paulchen [at] pacificamerican [dot] org</li>
+                  <li><i class='lnr lnr-earth'/>https://paul891223.wixsite.com/profolio</li>
                 </ul>
               </div>
               <!--Profile Photo-->
@@ -1497,11 +1497,11 @@ user is not using shrink to fit then we expand the header.
               <div class='col-md-4 col-md-push-0 col-sm-8 col-sm-push-2 skills-info wow fadeInUp animated' style='visibility: visible;'>
                 <h1 class='title'>Project Contributions</h1>
                 <p class='skill-text'>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                  I am currently working on the ai and help work on mapping and motor control. To have your own Siri or Cortana why not?
                 </p>
                 <div class='social-link' style='margin: 0;padding: 10px 0;text-align: center;'>
                   <!-- About Social Links --> 
-                  <a href='https://www.facebook.com/arvin.wu.524' target='_blank'><i class='fa fa-facebook'/></a>
+                  <a href='https://facebook.com/paulchen.chen.3' target='_blank'><i class='fa fa-facebook'/></a>
                   <a href='#'><i class='fa fa-twitter'/></a>
                   <a href='#'><i class='fa fa-google-plus'/></a>
                   <a href='#'><i class='fa fa-linkedin'/></a>
